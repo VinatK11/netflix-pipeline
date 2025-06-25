@@ -1,6 +1,8 @@
 # Netflix Data Engineering Pipeline
 
-This project demonstrates a complete data engineering workflow using Python and Google BigQuery — built around a cleaned Netflix dataset.
+This project demonstrates a real-world cloud ETL pipeline built using Python and Google BigQuery.
+It reads raw Netflix titles data from BigQuery, applies cleaning transformations using pandas, and writes the cleaned data back to a new BigQuery table.
+The entire pipeline is cloud-native — no local file processing, CSVs, or downloads. Logging and environment-based configuration ensure it's production-ready and modular.
 
 ---
 

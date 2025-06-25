@@ -1,0 +1,7 @@
+# Ignore credentials and local config
+.sourcepaths
+*.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc

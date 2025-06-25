@@ -1,0 +1,8 @@
+2025-06-25 13:58:40,178 - INFO - Loading raw data from BigQuery
+2025-06-25 13:58:56,897 - INFO - Loaded 8807 rows and 12 columns
+2025-06-25 13:58:56,897 - INFO - Cleaning data
+2025-06-25 13:58:56,950 - INFO - Cleaned data: (8807, 12)
+2025-06-25 13:58:56,951 - INFO - Uploading cleaned data to BigQuery table: netflix-titles-463907.netflix_db.netflix_cleaned_2025_06_25
+2025-06-25 13:59:02,881 - INFO - Data uploaded to BigQuery successfully
+2025-06-25 13:59:02,882 - INFO - Pipeline completed successfully
+2025-06-25 13:59:02,882 - INFO - Pipeline completed in 22.70 seconds
